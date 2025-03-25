@@ -5,3 +5,7 @@ Assignment repository for UNT CSCE1015
 sp2609
 ## Favorite Professor
 Thakur P. Magrati
+## EUID
+sp2609
+## Favorite Professor
+Me
